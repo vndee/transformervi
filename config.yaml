@@ -1,0 +1,6 @@
+source_train: data/en-vi/dev/tst2012.en
+target_train: data/en-vi/dev/tst2012.vi
+source_test: data/en-vi/test/tst2013.en
+target_test: data/en-vi/test/tst2013.vi
+
+device: cuda # cuda or cpu
